@@ -17,5 +17,5 @@ python reverse_complement_tool.py input.fasta output.fasta
 Replace input.fasta with the path to your input FASTA file and output.fasta with the desired path for the output file.
 
 
-Example
+Example:
 python reverse_complement_tool.py input.fasta output.fasta
